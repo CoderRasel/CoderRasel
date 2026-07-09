@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm Rasel Mahmud (coderrasel)
+# ⚡ Hello, I'm Rasel Ahammed (@CoderRasel)
 **Full-Stack Web Developer | Python Automation Enthusiast | Student**
 
 I'm a developer based in Khulna, Bangladesh, focused on building modern web applications and automated systems. Currently studying at Mangrove Institute of Science and Technology.
